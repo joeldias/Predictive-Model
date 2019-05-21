@@ -1,6 +1,8 @@
 # Predictive-Model
 Churn Model for an online retailer.
 
+Model on GitHub adapted to Microsoft Adventure Works Database for demo purposes.
+
 In this model, we have labelled customers who have not purchased a product in the last 8 months as customers who have churned. This time period is decided independently, and should be adjusted depending on the sector. 
 
 To retain such customers, the management needs quantifiable and timely metrics.
